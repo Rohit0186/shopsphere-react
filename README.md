@@ -96,13 +96,7 @@ src/
 * ✔ Reusable utility functions for better scalability
 * ✔ Clean and maintainable code structure
 
----
 
-## 🌐 Live Demo
-
-👉 https://your-vercel-link.vercel.app
-
----
 
 ## 📸 Screenshots
 
