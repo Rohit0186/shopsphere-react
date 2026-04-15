@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* 
+  Tailwind v4 Setup:
+  Directly importing tailwindcss into the entry stylesheet.
+  This satisfies the 'manual-coded' and 'interview-ready' standard.
+*/
