@@ -1,6 +1,5 @@
 # 🛒 ShopSphere - Modern E-commerce Web App
 
-<<<<<<< HEAD
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?logo=tailwindcss)
 =======
@@ -88,7 +87,7 @@ src/
 
 ---
 
-<<<<<<< HEAD
+
 ## 🧠 Key Highlights
 
 * ✔ Separation of concerns (UI and logic handled separately)
@@ -96,6 +95,9 @@ src/
 * ✔ Reusable utility functions for better scalability
 * ✔ Clean and maintainable code structure
 
+🌐 Live Demo
+
+👉 https://shopsphere-react-g7s5-ocuzht1v8-rohit0186s-projects.vercel.app/
 
 
 ## 📸 Screenshots
@@ -124,7 +126,6 @@ src/
 
 ## 🚀 Getting Started
 
-<<<<<<< HEAD
 1. Install dependencies:
 
 ```bash
@@ -172,7 +173,6 @@ CS Student | Full-Stack Developer
 
 ## ⭐ Support
 
-<<<<<<< HEAD
 If you like this project, consider giving it a ⭐ on GitHub!
 =======
 If this project helps you understand React state management better, please consider giving it a ⭐ on GitHub!
